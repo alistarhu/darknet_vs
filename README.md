@@ -53,4 +53,3 @@ You can click **darknet.sln** in `build_vs2013x64` folder to open the vs project
 ```
 $ .\build_vs\build_vs2013x64\Release\yolo.exe detect .\cfg\yolov2.cfg ..\weight\yolov2.weights .\data\dog.jpg -out dog_res
 ```
-
